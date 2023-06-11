@@ -19,3 +19,10 @@ Python, API, HDFS, Hive
 6. Use a library such as pandas to convert the data to a CSV format.
 7. Use the HDFS API to write the CSV file to a location that is accessible to users.
 8. Test your solution to ensure that it is working as expected.
+
+### Results:
++ The code you develop should be able to make a request to the chosen public API and retrieve the data.
++ The data should be parsed and extracted in the desired format.
++ The data should be stored in Hive through HDFS using the Hadoop File System API.
++ The data should be accessible to users through an option to download the data as a CSV file.
++ The CSV file should contain the data in the correct format and should be saved to a location that is accessible to users.
